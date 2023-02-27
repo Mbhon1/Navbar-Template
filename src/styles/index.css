@@ -2,7 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
+/* ? Menu */
+
+/* ? Navbar */
+/* body {
   width: 100vw;
   height: 100vh;
   background: linear-gradient(180deg, #0055ff 0%, rgb(0, 153, 255) 100%);
@@ -96,4 +99,4 @@ li {
   width: 200px;
   height: 20px;
   flex: 1;
-}
+} */
