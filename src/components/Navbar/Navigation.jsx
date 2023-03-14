@@ -17,7 +17,12 @@ const container = {
   },
 };
 
-const itemIds = [0, 1, 2, 3, 4];
+const itemIds = [
+  { name: "Home", to: "#", id: 1 },
+  { name: "About", to: "#", id: 2 },
+  { name: "Blog", to: "#", id: 3 },
+  { name: "Contact", to: "#", id: 4 },
+];
 
 const Navigation = () => {
   return (
